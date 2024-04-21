@@ -12,7 +12,7 @@ Aizzy.ai is an AI-powered tool designed to enhance productivity and efficiency i
 
 5. **Additional Tools**: The platform also includes extra features like AI-generated text detection, language translation, and file conversion, catering to a wide range of productivity needs.
 
-6. **Chat in grouup**: Aizzy.ai also supports collaborative functionalities, allowing you to create groups where you can chat with friends, colleagues from university or school, or the office. This feature facilitates teamwork by enabling group members to work together seamlessly, discuss ideas, and share documents directly within the platform. This makes Aizzy.ai a versatile tool not only for individual productivity but also for collaborative projects and group learning environments.
+6. **Chat in groups**: Aizzy.ai also supports collaborative functionalities, allowing you to create groups where you can chat with friends, colleagues from university or school, or the office. This feature facilitates teamwork by enabling group members to work together seamlessly, discuss ideas, and share documents directly within the platform. This makes Aizzy.ai a versatile tool not only for individual productivity but also for collaborative projects and group learning environments.
 
 Aizzy.ai is particularly useful for students, professionals, and content creators, providing tools that help manage emails, schedule tasks, and automate repetitive activities. It aims to streamline workflows and enhance learning experiences by making document handling more interactive and information retrieval more straightforward.
 
