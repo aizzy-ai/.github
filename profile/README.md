@@ -8,7 +8,7 @@ Essentially, this incentivizes participation and engagement on the platform by o
 
 Useful links:
 - For more information, you can visit the official website at [https://aizzytoken.ai](https://aizzytoken.ai) 
-- You can also check the official git-book on [https://github.com/aizzy-ai/aizzy-token](https://aizzy-ai.gitbook.io/aizzy.ai-docs)
+- You can also check the official git-book on [https://aizzy-ai.gitbook.io/aizzy.ai-docs](https://aizzy-ai.gitbook.io/aizzy.ai-docs)
 - Checkout the source code and the GitHub instructions at [https://github.com/aizzy-ai/aizzy-token](https://github.com/aizzy-ai/aizzy-token)
 
 # Aizzy.ai
