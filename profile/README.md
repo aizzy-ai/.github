@@ -1,14 +1,3 @@
-# Aizzy Token
-
-The Aizzy.ai Token (AIZ) is an utility token used within the decentralized artificial intelligence ecosystem aizzy.ai to reward its users. Users of the platform pay for AI usage in AIZ, while builders and operators of models and AI Agents earn AIZ tokens as a form of incentive for providing value.
-
-These tokens may be used for various purposes within the platform, such as accessing premium features, exchanging for services, or as part of a rewards system. 
-
-Essentially, this incentivizes participation and engagement on the platform, as well as providing value to participants in the form of models and Agents, by offering tangible rewards for user activity and contributions.
-
-Useful links:
-- Checkout the source code and the GitHub instructions at [https://github.com/aizzy-ai/aizzy-token](https://github.com/aizzy-ai/aizzy-token)
-
 # Aizzy.ai
 
 Aizzy.ai is a comprehensive AI-powered platform designed to enhance productivity, efficiency, and privacy in handling documents and performing various tasks. With a strong focus on anonymity and privacy, Aizzy.ai rewards users with AIZ tokens, integrating the best of AI, DeFi, and Web3 technologies. Here's what Aizzy.ai offers:
