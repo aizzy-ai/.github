@@ -1,12 +1,12 @@
-# 🔐 Aizzy.ai - Privacy-First AI Platform
+# 🔐 Aizzy.ai — Decentralized, Privacy-First AI Platform
 
 <div align="center">
   
-  **Your AI Assistant That Respects Your Privacy**
+  **Your Prompt Remains Yours.**
   
   [![Website](https://img.shields.io/badge/Website-aizzy.ai-blue)](https://aizzy.ai)
   [![Privacy](https://img.shields.io/badge/Privacy-First-green)]()
-  [![Anonymous](https://img.shields.io/badge/Access-Anonymous-purple)]()
+  [![Anonymous](https://img.shields.io/badge/Web3-Phantom_Auth-purple)]()
   
 </div>
 
@@ -14,82 +14,55 @@
 
 ## 🌟 What is Aizzy.ai?
 
-Aizzy.ai is a privacy-first AI platform that offers **EVERYTHING ChatGPT, Claude, and Gemini do, but completely anonymous**. We believe that powerful AI tools shouldn't come at the cost of your personal data. Zero tracking, zero IP collection, zero third-party cookies.
+Aizzy.ai is a decentralized AI platform that delivers **everything ChatGPT, Claude, and Gemini do, but without servers tracking your data.** We execute complex cognitive tasks autonomously while ensuring verifiable privacy through 100% browser-side processing via WebAssembly (WASM).
 
-### 🚀 Key Features
+Zero tracking. Zero IP collection. Zero third-party cookies. **Zero Web2 Logins.**
 
-- **🤖 Multiple AI Models** - Choose between GPT, Claude, Gemini, and more
-- **🔒 Local Storage Only** - All data encrypted and stored in IndexedDB on YOUR device
-- **🎯 Custom AI Assistants** - Create personalized assistants with pre-built prompts
-- **🖼️ Image Generation** - Create stunning visuals with AI
-- **📄 Document Analysis** - Process PDFs, analyze websites, extract YouTube content
-- **💬 Private Local Chat** - All conversations stay on your device
-- **⚡ 300% Productivity Boost** - With complete privacy
+### 🚀 Key Capabilities
+
+- **🧠 Infinite Memory** - Recall past conversations flawlessly without centralized server constraints.
+- **🤖 Autonomous Web Search** - Agents dynamically scrape Google/Bing/DuckDuckGo and read full page content.
+- **🛠️ OpenClaw Standard (`SKILL.md`)** - Import community skills to give your agents programmatic superpowers.
+- **⚡ In-Browser RAG & Documents** - Process PDFs and extract text privately via local WASM inference — zero PII sent to servers.
+- **❤️ Heartbeat Agents** - Deploy autonomous assistants that execute logic on scheduled intervals.
+- **🔐 Phantom Login** - Verifiable, permissionless on-chain identity via Solana. No Gmail, no passwords.
+- **🌍 Multiple Foundation Models** - Seamlessly switch between top-tier LLMs for your specific tasks. 
 
 ## 🛡️ Privacy Architecture
 
-### 📦 **Local-First Storage**
-Your data never leaves your device. We use encrypted IndexedDB for all storage - documents, chats, and preferences stay on YOUR computer. Only anonymized vectors are stored for enabling future searches, saving both your privacy and our storage costs.
+### 📦 **Local-First Vector Storage**
+Your conversation history and document vectors never leave your device. We use encrypted **IndexedDB** locally to power our hybrid RAG engine, ensuring your intellectual property stays yours. 
 
-### 🤖 **Anonymous AI Access**
-Chat with advanced AI models without compromising your identity. No personal data required, no tracking, just pure AI functionality.
+### ⚙️ **WebAssembly Processing**
+Features like audio transcription and semantic document splitting are processed directly on your silicon using native WASM and ONNX runtime bridges. We don't want your files, so we don't upload them.
 
-### ✍️ **Private Content Creation**
-Generate marketing copy, blog posts, code, and more. Your prompts and outputs are encrypted locally - your intellectual property stays yours.
+### 💸 **Transparent SHA-256 Billing**
+Tokens are calculated cryptographically. Pay exactly for what you use per-message via our verifiable credit system, with no hidden monthly subscription locks.
 
-### 🔗 **Website & Document Intelligence**
-Let AI analyze and understand any website or document. Extract key insights, summarize content, and get answers - all processed privately.
-
-### 🎨 **Anonymous Image Generation**
-Transform ideas into visuals using AI. Perfect for social media, marketing, presentations - no one knows what you're creating.
-
-### 👥 **Secure Group Collaboration**
-Create private groups to work with teammates anonymously. Share documents and ideas in a completely secure environment.
-
-## 🎯 Who Benefits from Aizzy.ai?
-
-- **🎓 Students** - Research without digital footprints, AI-assisted learning
-- **💼 Professionals** - Handle sensitive documents with enterprise-grade privacy
-- **✨ Content Creators** - Protect your creative process and ideas
-- **💻 Developers** - Code with AI assistance without exposing your projects
-- **🔒 Privacy Advocates** - Finally, AI that respects your values
-
-## 💡 Our Privacy Promise
+## 💡 Our Ironclad Promise
 
 ### **🚫 What We DON'T Do**
-- ❌ NO IP address collection
-- ❌ NO tracking cookies or fingerprinting
-- ❌ NO Google Analytics or tracking tools
-- ❌ NO personal data stored on our servers
-- ❌ NO data sharing with third parties
+- ❌ NO IP tracking or browser fingerprinting
+- ❌ NO Google Analytics or tracking pixels
+- ❌ NO personal data storage (no emails, no names)
+- ❌ NO selling prompts to AI training labs
 
 ### **✅ What We DO**
 - ✅ Encrypt everything locally on your device
-- ✅ Store only anonymized vectors for search
-- ✅ Provide multiple login options (MetaMask/Phantom/Gmail)
-- ✅ Open to privacy audits and verification
-- ✅ Give you complete control over your data
+- ✅ Support absolute anonymity via Phantom Wallet
+- ✅ Operate completely permissionless
+- ✅ Build openly with the developer community
 
-## 🏗️ Technical Features
+## 🧑‍💻 Built for the Decentralized Web
 
-- **Decentralized Storage** - Powered by IndexedDB
-- **Multiple Login Methods** - MetaMask, Phantom, Gmail, or email
-- **AI Model Selection** - Choose the best model for your task
-- **Intuitive Assistant Builder** - No coding required
-- **Cross-Platform** - Works on any modern browser
-
-## 🚀 Getting Started
-
-Visit [Aizzy.ai](https://aizzy.ai) to experience AI that truly respects your privacy. Test for free with any authentication method - all equally private and secure.
+We are proudly building the infrastructure for autonomous, private-by-default AI. If you believe your prompts and documents belong to you, you belong here.
 
 ---
 
 <div align="center">
   
-  **"Privacy-first by design. We used AI tools to audit our codebase and removed ALL tracking."**
+  **Experience the future of private AI today 🚀**
   
-  Experience the future of private AI today 🚀
-  
-  Made with ❤️ by the Aizzy.ai team
+  Visit [Aizzy.ai](https://aizzy.ai) 
   
 </div>
