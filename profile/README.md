@@ -37,8 +37,8 @@ Your conversation history never leaves your device. Everything is stored in encr
 ### ⚙️ **Browser-Side WASM Processing**
 Audio transcription, markdown rendering, and ONNX-based inference all run directly on your device via native WASM. We don't want your files, so we don't upload them.
 
-### 💸 **Transparent SHA-256 Billing**
-Pay exactly for what you use per-message via our verifiable credit system — no hidden fees, no monthly subscription locks.
+### 💸 **Verifiable Credit System**
+Pay exactly for what you use per-message via our transparent credit system — no hidden fees, no monthly subscription locks.
 
 ## 💡 Our Ironclad Promise
 
