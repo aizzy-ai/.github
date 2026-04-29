@@ -29,7 +29,7 @@
 
 ---
 
-### 🧠 Persistent Memory
+### 🧠 Long-Context Memory
 Conversation history stored locally in encrypted IndexedDB — never touches a server.
 
 ### 🔍 Web Search
