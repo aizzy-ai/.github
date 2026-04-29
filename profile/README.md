@@ -29,7 +29,7 @@
 
 ---
 
-### 🧠 Infinite Memory
+### 🧠 Persistent Memory
 Conversation history stored locally in encrypted IndexedDB — never touches a server.
 
 ### 🔍 Web Search
