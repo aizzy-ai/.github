@@ -21,104 +21,57 @@
 > Use any AI model anonymously. Zero tracking, zero IP collection, zero cookies.
 > Everything runs browser-side via WASM. Login via Phantom — no Gmail, no passwords.
 
-<br>
+---
 
-## 🚀 Key Capabilities
+### 🧠 Infinite Memory
+Conversation history stored locally in encrypted IndexedDB — never touches a server.
 
-<table>
-  <tr>
-    <td>
-      <h3>🧠&nbsp;&nbsp;Infinite Memory</h3>
-      <sub>Conversation history stored locally in encrypted IndexedDB — never touches a server.</sub>
-    </td>
-    <td>
-      <h3>🔍&nbsp;&nbsp;Web Search</h3>
-      <sub>Real-time Google search via Serper, locale-aware (EN, PT, ES) with full-page scraping.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>🛠️&nbsp;&nbsp;Community Skills</h3>
-      <sub>Import <code>SKILL.md</code> from the community. OpenClaw standard — programmatic AI superpowers.</sub>
-    </td>
-    <td>
-      <h3>🔐&nbsp;&nbsp;Phantom Login</h3>
-      <sub>Verifiable on-chain identity via Solana. Permissionless, one-click, no personal data.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>🌍&nbsp;&nbsp;Multiple Models</h3>
-      <sub>OpenRouter integration — switch between 200+ LLMs. Pay-as-you-go, no lock-in.</sub>
-    </td>
-    <td>
-      <h3>🌐&nbsp;&nbsp;Multi-Language</h3>
-      <sub>English, Português, Español — the AI replies in <i>your</i> language, automatically.</sub>
-    </td>
-  </tr>
-</table>
+### 🔍 Web Search
+Real-time Google search via Serper, locale-aware (EN, PT, ES) with full-page scraping.
 
-<br>
+### 🛠️ Community Skills
+Import `SKILL.md` from the community. OpenClaw standard — programmatic AI superpowers.
 
-## 🛡️ Privacy Architecture
+### 🔐 Phantom Login
+Verifiable on-chain identity via Solana. Permissionless, one-click, no personal data.
 
-<table>
-  <tr>
-    <td align="center">
-      <h2>📦</h2>
-      <b>Local-First</b><br>
-      <sub>Encrypted IndexedDB.<br>Your data, your device.</sub>
-    </td>
-    <td align="center">
-      <h2>⚙️</h2>
-      <b>WASM Native</b><br>
-      <sub>Audio, ONNX, markdown —<br>all processed on your silicon.</sub>
-    </td>
-    <td align="center">
-      <h2>💸</h2>
-      <b>Pay Per Use</b><br>
-      <sub>Verifiable credits.<br>No subscriptions. No lock-in.</sub>
-    </td>
-  </tr>
-</table>
+### 🌍 Multiple Models
+OpenRouter integration — switch between 200+ LLMs. Pay-as-you-go, no lock-in.
 
-<br>
+### 🌐 Multi-Language
+English, Português, Español — the AI replies in *your* language, automatically.
 
-## 💡 The Aizzy Promise
+---
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🚫 We never</h3>
-      <ul>
-        <li>❌ Track your IP or fingerprint your browser</li>
-        <li>❌ Use Google Analytics or tracking pixels</li>
-        <li>❌ Store your name, email, or personal data</li>
-        <li>❌ Sell your prompts to training labs</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3 align="center">✅ We always</h3>
-      <ul>
-        <li>✅ Encrypt everything locally on your device</li>
-        <li>✅ Support absolute anonymity via Phantom</li>
-        <li>✅ Operate completely permissionless</li>
-        <li>✅ Build in the open with the community</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### 🛡️ Privacy Architecture
 
-<br>
+- **📦 Local-First** — Encrypted IndexedDB. Your data, your device.
+- **⚙️ WASM Native** — Audio, ONNX, markdown — all processed on your silicon.
+- **💸 Pay Per Use** — Verifiable credits. No subscriptions, no lock-in.
 
-## 🧑‍💻 Built for Everyone
+---
+
+### 💡 The Aizzy Promise
+
+**🚫 We never**
+- ❌ Track your IP or fingerprint your browser
+- ❌ Use Google Analytics or tracking pixels
+- ❌ Store your name, email, or personal data
+- ❌ Sell your prompts to training labs
+
+**✅ We always**
+- ✅ Encrypt everything locally on your device
+- ✅ Support absolute anonymity via Phantom
+- ✅ Operate completely permissionless
+- ✅ Build in the open with the community
+
+---
 
 We're building the infrastructure for **private-by-default AI**.
 If you believe your prompts belong to *you*, you belong here.
 
-<br>
-
 <div align="center">
+  <br>
   <a href="https://aizzy.ai">
     <img src="https://img.shields.io/badge/🚀_Try_Aizzy_Free-3b82f6?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1d4ed8" height="40">
   </a>
