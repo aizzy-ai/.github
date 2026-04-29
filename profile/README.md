@@ -1,21 +1,27 @@
 <div align="center">
   <br>
 
+  <!-- Brand header: dark bg with teal accent matching logo gradient -->
   <a href="https://aizzy.ai">
-    <img src="https://img.shields.io/badge/🔐_Aizzy.ai-Private_·_Anonymous_·_Permissionless-0f172a?style=for-the-badge&labelColor=1e293b" width="520" height="48">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/AIZZY-Private_·_Anonymous_·_Permissionless-101828?style=for-the-badge&labelColor=101828&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgZmlsbD0iIzU4RTdENiIvPjwvc3ZnPg==">
+      <img src="https://img.shields.io/badge/AIZZY-Private_·_Anonymous_·_Permissionless-101828?style=for-the-badge&labelColor=101828&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgZmlsbD0iIzU4RTdENiIvPjwvc3ZnPg==" height="44">
+    </picture>
   </a>
 
   <br><br>
 
-  <a href="https://aizzy.ai"><img src="https://img.shields.io/badge/Website-aizzy.ai-3b82f6?style=flat-square&logo=safari&logoColor=white&labelColor=2563eb"></a>
-  <a href="https://x.com/AizzyAi"><img src="https://img.shields.io/badge/@AizzyAi-1d9bf0?style=flat-square&logo=x&logoColor=white&labelColor=0f1419"></a>
-  <a href="https://t.me/aizzyai_news"><img src="https://img.shields.io/badge/Telegram-26a5e4?style=flat-square&logo=telegram&logoColor=white&labelColor=229ED9"></a>
-  <a href="https://www.tiktok.com/@aizzy.ai"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white&labelColor=ff0050"></a>
-  <a href="mailto:support@aizzy.ai"><img src="https://img.shields.io/badge/Email-support@aizzy.ai-374151?style=flat-square&logo=gmail&logoColor=white&labelColor=111827"></a>
+  <!-- Social links in Aizzy neutral palette -->
+  <a href="https://aizzy.ai"><img src="https://img.shields.io/badge/Website-aizzy.ai-101828?style=flat-square&logo=safari&logoColor=white&labelColor=475467"></a>
+  <a href="https://x.com/AizzyAi"><img src="https://img.shields.io/badge/@AizzyAi-101828?style=flat-square&logo=x&logoColor=white&labelColor=475467"></a>
+  <a href="https://t.me/aizzyai_news"><img src="https://img.shields.io/badge/Telegram-101828?style=flat-square&logo=telegram&logoColor=white&labelColor=475467"></a>
+  <a href="https://www.tiktok.com/@aizzy.ai"><img src="https://img.shields.io/badge/TikTok-101828?style=flat-square&logo=tiktok&logoColor=white&labelColor=475467"></a>
+  <a href="mailto:support@aizzy.ai"><img src="https://img.shields.io/badge/Email-101828?style=flat-square&logo=gmail&logoColor=white&labelColor=475467"></a>
 </div>
 
 <br>
 
+<!-- Tagline matching hero section tone -->
 > *"Your prompt remains yours."*
 >
 > Use any AI model anonymously. Zero tracking, zero IP collection, zero cookies.
@@ -70,16 +76,19 @@ English, Português, Español — the AI replies in *your* language, automatical
 We're building the infrastructure for **private-by-default AI**.
 If you believe your prompts belong to *you*, you belong here.
 
+<br>
+
 <div align="center">
-  <br>
+  <!-- CTA matching Aizzy button style: dark bg -->
   <a href="https://aizzy.ai">
-    <img src="https://img.shields.io/badge/🚀_Try_Aizzy_Free-3b82f6?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1d4ed8" height="40">
+    <img src="https://img.shields.io/badge/🚀_Try_Aizzy_Free-101828?style=for-the-badge&logo=rocket&logoColor=white&labelColor=101828" height="40">
   </a>
   <br><br>
-  <img src="https://img.shields.io/badge/Private-0f172a?style=flat-square&labelColor=334155">
-  <img src="https://img.shields.io/badge/Anonymous-0f172a?style=flat-square&labelColor=334155">
-  <img src="https://img.shields.io/badge/Permissionless-0f172a?style=flat-square&labelColor=334155">
-  <img src="https://img.shields.io/badge/Open_Source-0f172a?style=flat-square&labelColor=334155">
+  <!-- Attribute badges in Aizzy neutral -->
+  <img src="https://img.shields.io/badge/Private-475467?style=flat-square&labelColor=344054&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxMiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSI2IiBjeT0iNiIgcj0iNSIgZmlsbD0iIzU4RTdENiIvPjwvc3ZnPg==">
+  <img src="https://img.shields.io/badge/Anonymous-475467?style=flat-square&labelColor=344054&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxMiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSI2IiBjeT0iNiIgcj0iNSIgZmlsbD0iIzU4RTdENiIvPjwvc3ZnPg==">
+  <img src="https://img.shields.io/badge/Permissionless-475467?style=flat-square&labelColor=344054&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxMiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSI2IiBjeT0iNiIgcj0iNSIgZmlsbD0iIzU4RTdENiIvPjwvc3ZnPg==">
+  <img src="https://img.shields.io/badge/Open_Source-475467?style=flat-square&labelColor=344054&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxMiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSI2IiBjeT0iNiIgcj0iNSIgZmlsbD0iIzU4RTdENiIvPjwvc3ZnPg==">
 </div>
 
 <br>
