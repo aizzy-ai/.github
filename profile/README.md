@@ -1,69 +1,150 @@
-# 🔐 Aizzy.ai — Private, Permissionless AI
-
 <div align="center">
-  
-  **Your Prompt Remains Yours.**
-  
-  [![Website](https://img.shields.io/badge/Website-aizzy.ai-blue)](https://aizzy.ai)
-  [![Privacy](https://img.shields.io/badge/Privacy-First-green)]()
-  [![Anonymous](https://img.shields.io/badge/Web3-Phantom_Auth-purple)]()
-  
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aizzy-ai/.github/main/profile/assets/banner-dark.svg">
+    <img alt="Aizzy — Private AI. Anonymous. Permissionless." src="https://raw.githubusercontent.com/aizzy-ai/.github/main/profile/assets/banner-light.svg" width="700">
+  </picture>
+  <br/>
+  <br/>
+
+  <p>
+    <a href="https://aizzy.ai"><img src="https://img.shields.io/badge/Website-aizzy.ai-3b82f6?style=for-the-badge&logo=safari&logoColor=white"></a>
+    <a href="https://x.com/AizzyAi"><img src="https://img.shields.io/badge/Follow-@AizzyAi-1d9bf0?style=for-the-badge&logo=x&logoColor=white"></a>
+    <a href="https://t.me/aizzyai_news"><img src="https://img.shields.io/badge/News-Telegram-26a5e4?style=for-the-badge&logo=telegram&logoColor=white"></a>
+    <a href="https://www.tiktok.com/@aizzy.ai"><img src="https://img.shields.io/badge/TikTok-@aizzy.ai-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
+  </p>
 </div>
 
 ---
 
-## 🌟 What is Aizzy.ai?
+<br>
 
-Aizzy.ai is a **privacy-first AI platform** that lets you use any AI model anonymously. No accounts, no passwords, no tracking — just you and the model. Everything runs browser-side via WebAssembly (WASM).
+## 🔐 What is Aizzy.ai?
 
-**Zero tracking. Zero IP collection. Zero third-party cookies. Zero Web2 logins.**
+<p align="center">
+  <b>Aizzy is a privacy-first AI platform. Use any AI model anonymously — no accounts, no passwords, no tracking.</b>
+</p>
 
-> Use any AI model anonymously. Community skills, on-chain identity — login via Phantom.
+<p align="center">
+  <img src="https://img.shields.io/badge/Zero-Tracking-red?style=flat-square&logo=eye&logoColor=white&labelColor=dc2626">
+  <img src="https://img.shields.io/badge/Zero-IP_Collection-orange?style=flat-square&logo=fingerprint&logoColor=white&labelColor=ea580c">
+  <img src="https://img.shields.io/badge/Zero-Cookies-yellow?style=flat-square&logo=cookie&logoColor=white&labelColor=ca8a04">
+  <img src="https://img.shields.io/badge/Zero-Web2_Logins-purple?style=flat-square&logo=key&logoColor=white&labelColor=7c3aed">
+</p>
 
-### 🚀 Key Capabilities
+> 💬 *"Your prompt remains yours."* — Everything runs browser-side via WebAssembly. Community skills, on-chain identity, login via Phantom.
 
-- **🧠 Infinite Memory** — Recall past conversations flawlessly, stored locally on your device.
-- **🔍 Real-Time Web Search** — Built-in web search with locale-aware results via Serper API.
-- **🛠️ Community Skills (`SKILL.md`)** — Import and run skills that extend AI with programmatic superpowers.
-- **🔐 Phantom Login** — Verifiable, permissionless on-chain identity via Solana. No Gmail, no passwords.
-- **🌍 Multiple Foundation Models** — Switch between top-tier LLMs for any task, pay-as-you-go.
-- **🌐 Multi-Language** — English, Portuguese, Spanish — reply in the user's language automatically.
+<br>
+
+## 🚀 Key Capabilities
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🧠 Infinite Memory</h3>
+      <p>Past conversations recalled flawlessly — stored locally on your device, not our servers.</p>
+    </td>
+    <td width="50%">
+      <h3>🔍 Real-Time Web Search</h3>
+      <p>Built-in web search with locale-aware results via Serper API — EN, PT, ES.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🛠️ Community Skills</h3>
+      <p>Import <code>SKILL.md</code> files to extend AI with programmatic superpowers. OpenClaw standard.</p>
+    </td>
+    <td width="50%">
+      <h3>🔐 Phantom Login</h3>
+      <p>Verifiable, permissionless on-chain identity via Solana. No Gmail, no passwords.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🌍 Multiple Models</h3>
+      <p>Switch between top-tier LLMs for any task. Pay-as-you-go, no subscription lock.</p>
+    </td>
+    <td width="50%">
+      <h3>🌐 Multi-Language</h3>
+      <p>English, Portuguese, Spanish — replies in the user's language automatically.</p>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 ## 🛡️ Privacy Architecture
 
-### 📦 **Local-First Storage**
-Your conversation history never leaves your device. Everything is stored in encrypted **IndexedDB** — your intellectual property stays yours.
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <h3>📦</h3>
+        <b>Local-First Storage</b>
+        <br/>
+        <sub>Encrypted IndexedDB —<br/>your data stays yours.</sub>
+      </td>
+      <td align="center" width="33%">
+        <h3>⚙️</h3>
+        <b>Browser-Side WASM</b>
+        <br/>
+        <sub>Audio, markdown, ONNX —<br/>all on your silicon.</sub>
+      </td>
+      <td align="center" width="33%">
+        <h3>💸</h3>
+        <b>Verifiable Credits</b>
+        <br/>
+        <sub>Pay per message —<br/>transparent, no lock-in.</sub>
+      </td>
+    </tr>
+  </table>
+</p>
 
-### ⚙️ **Browser-Side WASM Processing**
-Audio transcription, markdown rendering, and ONNX-based inference all run directly on your device via native WASM. We don't want your files, so we don't upload them.
-
-### 💸 **Verifiable Credit System**
-Pay exactly for what you use per-message via our transparent credit system — no hidden fees, no monthly subscription locks.
+<br>
 
 ## 💡 Our Ironclad Promise
 
-### **🚫 What We DON'T Do**
-- ❌ NO IP tracking or browser fingerprinting
-- ❌ NO Google Analytics or tracking pixels
-- ❌ NO personal data storage (no emails, no names)
-- ❌ NO selling prompts to AI training labs
+<p align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">🚫 What We DON'T Do</h3>
+        <ul>
+          <li>❌ No IP tracking or browser fingerprinting</li>
+          <li>❌ No Google Analytics or tracking pixels</li>
+          <li>❌ No personal data storage (emails, names)</li>
+          <li>❌ No selling prompts to AI training labs</li>
+        </ul>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">✅ What We DO</h3>
+        <ul>
+          <li>✅ Encrypt everything locally on your device</li>
+          <li>✅ Absolute anonymity via Phantom Wallet</li>
+          <li>✅ Completely permissionless</li>
+          <li>✅ Open-source, community-driven</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</p>
 
-### **✅ What We DO**
-- ✅ Encrypt everything locally on your device
-- ✅ Support absolute anonymity via Phantom Wallet
-- ✅ Operate completely permissionless
-- ✅ Build openly with the developer community
+<br>
 
-## 🧑‍💻 Built for Everyone, Not Just Web3
+## 🧑‍💻 Built for Everyone
 
-We're building the infrastructure for **private-by-default AI**. If you believe your prompts belong to you, you belong here.
+<p align="center">
+  We're building the infrastructure for <b>private-by-default AI</b>.<br/>
+  If you believe your prompts belong to <i>you</i>, you belong here.
+</p>
 
 ---
 
 <div align="center">
-  
-  **Experience the future of private AI today 🚀**
-  
-  Visit [Aizzy.ai](https://aizzy.ai)
-  
+  <br>
+  <a href="https://aizzy.ai">
+    <img src="https://img.shields.io/badge/🚀_Launch_Aizzy.ai-3b82f6?style=for-the-badge&logo=rocket&logoColor=white&labelColor=2563eb">
+  </a>
+  <br><br>
+  <sub>🔐 Private &nbsp;·&nbsp; 🕶️ Anonymous &nbsp;·&nbsp; 🔓 Permissionless</sub>
 </div>
