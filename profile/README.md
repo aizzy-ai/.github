@@ -1,11 +1,7 @@
 <div align="center">
-  <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aizzy-ai/.github/main/profile/assets/banner-dark.svg">
-    <img alt="Aizzy — Private AI. Anonymous. Permissionless." src="https://raw.githubusercontent.com/aizzy-ai/.github/main/profile/assets/banner-light.svg" width="700">
-  </picture>
-  <br/>
-  <br/>
+
+  <h1>🔐 Aizzy.ai</h1>
+  <h3>Private AI &nbsp;·&nbsp; Anonymous &nbsp;·&nbsp; Permissionless</h3>
 
   <p>
     <a href="https://aizzy.ai"><img src="https://img.shields.io/badge/Website-aizzy.ai-3b82f6?style=for-the-badge&logo=safari&logoColor=white"></a>
@@ -26,10 +22,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Zero-Tracking-red?style=flat-square&logo=eye&logoColor=white&labelColor=dc2626">
-  <img src="https://img.shields.io/badge/Zero-IP_Collection-orange?style=flat-square&logo=fingerprint&logoColor=white&labelColor=ea580c">
-  <img src="https://img.shields.io/badge/Zero-Cookies-yellow?style=flat-square&logo=cookie&logoColor=white&labelColor=ca8a04">
-  <img src="https://img.shields.io/badge/Zero-Web2_Logins-purple?style=flat-square&logo=key&logoColor=white&labelColor=7c3aed">
+  <img src="https://img.shields.io/badge/Zero-Tracking-red?style=flat-square&logoColor=white&labelColor=dc2626">
+  <img src="https://img.shields.io/badge/Zero-IP_Collection-orange?style=flat-square&logoColor=white&labelColor=ea580c">
+  <img src="https://img.shields.io/badge/Zero-Cookies-yellow?style=flat-square&logoColor=white&labelColor=ca8a04">
+  <img src="https://img.shields.io/badge/Zero-Web2_Logins-purple?style=flat-square&logoColor=white&labelColor=7c3aed">
 </p>
 
 > 💬 *"Your prompt remains yours."* — Everything runs browser-side via WebAssembly. Community skills, on-chain identity, login via Phantom.
