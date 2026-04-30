@@ -24,57 +24,60 @@
 <!-- Tagline matching hero section tone -->
 > *"Your prompt remains yours."*
 >
-> Use any AI model anonymously. Zero tracking, zero IP collection, zero cookies.
-> Everything runs browser-side via WASM. Login via Phantom — no Gmail, no passwords.
+> Use any AI model anonymously. No setup, no local models, no GPU overhead.
+> Zero tracking, zero IP collection, zero cookies. Just open and chat.
 
 ---
 
-### 🧠 Long-Context Memory
-Conversation history stored locally in encrypted IndexedDB — never touches a server.
+### ⚡ Zero Friction
 
-### 🔍 Web Search
-Real-time Google search via Serper, locale-aware (EN, PT, ES) with full-page scraping.
+No downloads. No Python. No Docker. No command line. No GPU melting your machine.
+Just open your browser, pick a model, and start chatting. You don't need to be a tech person to use real AI.
+
+### 🧠 200+ AI Models
+
+Switch between GPT, Claude, Gemini, Llama, Mistral, and 200+ more via OpenRouter. Pay-as-you-go, no lock-in, no subscriptions.
+
+### 🔍 Autonomous Research
+
+Your agents search and read the web in real-time — grounded answers from real data, not hallucinations.
 
 ### 🛠️ Community Skills
-Import `SKILL.md` from the community. OpenClaw standard — programmatic AI superpowers.
 
-### 🔐 Phantom Login
-Verifiable on-chain identity via Solana. Permissionless, one-click, no personal data.
+Import skills to give your agents superpowers — autonomous tool execution, custom workflows, infinite memory.
 
-### 🌍 Multiple Models
-OpenRouter integration — switch between 200+ LLMs. Pay-as-you-go, no lock-in.
+### 🔐 Anonymous by Default
 
-### 🌐 Multi-Language
+Free ZDR models work without any account. For paid models, sign in with Phantom or Vultisig — we know your wallet address, not your identity.
+
+### 🌍 Multi-Language
+
 English, Português, Español — the AI replies in *your* language, automatically.
 
 ---
 
-### 🛡️ Privacy Architecture
-
-- **📦 Local-First** — Encrypted IndexedDB. Your data, your device.
-- **⚙️ WASM Native** — Audio, ONNX, markdown — all processed on your silicon.
-- **💸 Pay Per Use** — Verifiable credits. No subscriptions, no lock-in.
-
----
-
-### 💡 The Aizzy Promise
+### 🛡️ The Aizzy Promise
 
 **🚫 We never**
 - ❌ Track your IP or fingerprint your browser
-- ❌ Use Google Analytics or tracking pixels
-- ❌ Store your name, email, or personal data
-- ❌ Sell your prompts to training labs
+- ❌ Use Google Analytics, cookies, or tracking pixels
+- ❌ Store your name, email, chats, or personal data
+- ❌ Send your identity to AI providers
+- ❌ Require setup, downloads, or tech knowledge
 
 **✅ We always**
-- ✅ Encrypt everything locally on your device
-- ✅ Support absolute anonymity via Phantom
-- ✅ Operate completely permissionless
+- ✅ Keep your chats in your browser (IndexedDB)
+- ✅ Send `data_collection: deny` on every AI request
+- ✅ Process documents 100% in your browser via WASM
+- ✅ Support absolute anonymity — no account needed
 - ✅ Build in the open with the community
+
+> 📋 **Full privacy audit:** [aizzy.ai/ai-audit](https://aizzy.ai/ai-audit)
 
 ---
 
-We're building the infrastructure for **private-by-default AI**.
-If you believe your prompts belong to *you*, you belong here.
+We're building the infrastructure for **private-by-default AI** that anyone can use.
+No tech degree required. If you believe your prompts belong to *you*, you belong here.
 
 <br>
 
@@ -87,7 +90,7 @@ If you believe your prompts belong to *you*, you belong here.
   <!-- Attribute badges in Aizzy neutral -->
   <img src="https://img.shields.io/badge/Private-475467?style=flat-square&labelColor=344054&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxMiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSI2IiBjeT0iNiIgcj0iNSIgZmlsbD0iIzU4RTdENiIvPjwvc3ZnPg==">
   <img src="https://img.shields.io/badge/Anonymous-475467?style=flat-square&labelColor=344054&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxMiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSI2IiBjeT0iNiIgcj0iNSIgZmlsbD0iIzU4RTdENiIvPjwvc3ZnPg==">
-  <img src="https://img.shields.io/badge/Permissionless-475467?style=flat-square&labelColor=344054&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxMiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSI2IiBjeT0iNiIgcj0iNSIgZmlsbD0iIzU4RTdENiIvPjwvc3ZnPg==">
+  <img src="https://img.shields.io/badge/Zero_Setup-475467?style=flat-square&labelColor=344054&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxMiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSI2IiBjeT0iNiIgcj0iNSIgZmlsbD0iIzU4RTdENiIvPjwvc3ZnPg==">
   <img src="https://img.shields.io/badge/Open_Source-475467?style=flat-square&labelColor=344054&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxMiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSI2IiBjeT0iNiIgcj0iNSIgZmlsbD0iIzU4RTdENiIvPjwvc3ZnPg==">
 </div>
 
